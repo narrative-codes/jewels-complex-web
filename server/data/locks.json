@@ -1,0 +1,282 @@
+[
+  {
+    "id": "LK-177FA258",
+    "source": {
+      "type": "design",
+      "config": {
+        "pieceType": "necklace",
+        "size": "50",
+        "metal": "rose-gold",
+        "karat": 21,
+        "stone": {
+          "type": "emerald",
+          "carat": 3.2
+        },
+        "engraving": ""
+      }
+    },
+    "itemName": "Custom Design",
+    "spec": {
+      "metal": "rose-gold",
+      "karat": 21,
+      "weight": 15.68,
+      "stone": {
+        "type": "emerald",
+        "carat": 3.2
+      },
+      "engraving": ""
+    },
+    "price": {
+      "currency": "PKR",
+      "metal": "rose-gold",
+      "metalLabel": "Rose Gold",
+      "karat": 21,
+      "weight": 15.68,
+      "ratePerGram": 32025,
+      "makingPercent": 12,
+      "stone": {
+        "type": "emerald",
+        "label": "Emerald",
+        "carat": 3.2
+      },
+      "engraving": "",
+      "lines": {
+        "metal": 502200,
+        "making": 60300,
+        "stone": 416000,
+        "engraving": 0
+      },
+      "total": 978500
+    },
+    "rateAtLock": {
+      "perTola24k": 426900,
+      "perGram24k": 36600
+    },
+    "createdAt": "2026-10-18T11:53:39.036Z",
+    "expiresAt": "2026-10-19T11:53:39.036Z"
+  },
+  {
+    "id": "LK-3EB44195",
+    "source": {
+      "type": "design",
+      "config": {
+        "pieceType": "bracelet",
+        "size": "19",
+        "metal": "silver",
+        "karat": null,
+        "stone": {
+          "type": "sapphire",
+          "carat": 0.95
+        },
+        "engraving": "Affrina choice"
+      }
+    },
+    "itemName": "Custom Design",
+    "spec": {
+      "metal": "silver",
+      "karat": null,
+      "weight": 13.92,
+      "stone": {
+        "type": "sapphire",
+        "carat": 0.95
+      },
+      "engraving": "Affrina choice"
+    },
+    "price": {
+      "currency": "PKR",
+      "metal": "silver",
+      "metalLabel": "Sterling Silver",
+      "karat": null,
+      "weight": 13.92,
+      "ratePerGram": 420,
+      "makingPercent": 30,
+      "stone": {
+        "type": "sapphire",
+        "label": "Blue Sapphire",
+        "carat": 0.95
+      },
+      "engraving": "Affrina choice",
+      "lines": {
+        "metal": 5800,
+        "making": 1800,
+        "stone": 133000,
+        "engraving": 1500
+      },
+      "total": 142100
+    },
+    "rateAtLock": {
+      "perTola24k": 419990,
+      "perGram24k": 36007
+    },
+    "createdAt": "2026-10-18T13:04:24.409Z",
+    "expiresAt": "2026-10-19T13:04:24.409Z"
+  },
+  {
+    "id": "LK-91D0A6CA",
+    "source": {
+      "type": "design",
+      "config": {
+        "pieceType": "bracelet",
+        "size": "17",
+        "metal": "silver",
+        "karat": null,
+        "stone": {
+          "type": "ruby",
+          "carat": 0.85
+        },
+        "engraving": "A gift for you loren"
+      }
+    },
+    "itemName": "Custom Design",
+    "spec": {
+      "metal": "silver",
+      "karat": null,
+      "weight": 12,
+      "stone": {
+        "type": "ruby",
+        "carat": 0.85
+      },
+      "engraving": "A gift for you loren"
+    },
+    "price": {
+      "currency": "PKR",
+      "metal": "silver",
+      "metalLabel": "Sterling Silver",
+      "karat": null,
+      "weight": 12,
+      "ratePerGram": 421,
+      "makingPercent": 30,
+      "stone": {
+        "type": "ruby",
+        "label": "Ruby",
+        "carat": 0.85
+      },
+      "engraving": "A gift for you loren",
+      "lines": {
+        "metal": 5100,
+        "making": 1500,
+        "stone": 136000,
+        "engraving": 1500
+      },
+      "total": 144100
+    },
+    "rateAtLock": {
+      "perTola24k": 417590,
+      "perGram24k": 35802
+    },
+    "createdAt": "2026-10-19T13:21:33.498Z",
+    "expiresAt": "2026-10-20T13:21:33.498Z"
+  },
+  {
+    "id": "LK-7CDE3C97",
+    "source": {
+      "type": "design",
+      "config": {
+        "pieceType": "ring",
+        "size": "6",
+        "metal": "white-gold",
+        "karat": 18,
+        "stone": {
+          "type": "sapphire",
+          "carat": 4.15
+        },
+        "engraving": "For Maha"
+      }
+    },
+    "itemName": "Custom Design",
+    "spec": {
+      "metal": "white-gold",
+      "karat": 18,
+      "weight": 4.23,
+      "stone": {
+        "type": "sapphire",
+        "carat": 4.15
+      },
+      "engraving": "For Maha"
+    },
+    "price": {
+      "currency": "PKR",
+      "metal": "white-gold",
+      "metalLabel": "White Gold",
+      "karat": 18,
+      "weight": 4.23,
+      "ratePerGram": 27144,
+      "makingPercent": 14,
+      "stone": {
+        "type": "sapphire",
+        "label": "Blue Sapphire",
+        "carat": 4.15
+      },
+      "engraving": "For Maha",
+      "lines": {
+        "metal": 114800,
+        "making": 16100,
+        "stone": 581000,
+        "engraving": 1500
+      },
+      "total": 713400
+    },
+    "rateAtLock": {
+      "perTola24k": 422140,
+      "perGram24k": 36192
+    },
+    "createdAt": "2026-10-20T10:39:06.211Z",
+    "expiresAt": "2026-10-21T10:39:06.211Z"
+  },
+  {
+    "id": "LK-54BB51DE",
+    "source": {
+      "type": "design",
+      "config": {
+        "pieceType": "ring",
+        "size": "7",
+        "metal": "white-gold",
+        "karat": 18,
+        "stone": {
+          "type": "sapphire",
+          "carat": 2.8
+        },
+        "engraving": "this is for Zunaira"
+      }
+    },
+    "itemName": "Custom Design",
+    "spec": {
+      "metal": "white-gold",
+      "karat": 18,
+      "weight": 4.5,
+      "stone": {
+        "type": "sapphire",
+        "carat": 2.8
+      },
+      "engraving": "this is for Zunaira"
+    },
+    "price": {
+      "currency": "PKR",
+      "metal": "white-gold",
+      "metalLabel": "White Gold",
+      "karat": 18,
+      "weight": 4.5,
+      "ratePerGram": 27028,
+      "makingPercent": 14,
+      "stone": {
+        "type": "sapphire",
+        "label": "Blue Sapphire",
+        "carat": 2.8
+      },
+      "engraving": "this is for Zunaira",
+      "lines": {
+        "metal": 121600,
+        "making": 17000,
+        "stone": 392000,
+        "engraving": 1500
+      },
+      "total": 532100
+    },
+    "rateAtLock": {
+      "perTola24k": 420330,
+      "perGram24k": 36037
+    },
+    "createdAt": "2026-10-20T16:46:07.607Z",
+    "expiresAt": "2026-10-21T16:46:07.607Z"
+  }
+]

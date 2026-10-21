@@ -1,0 +1,21 @@
+{
+    "name": "evelyn-jewels",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Evelyn Jewels - luxury jewelry website (React + Express)",
+    "main": "server/server.js",
+    "scripts": {
+        "dev": "concurrently -n server,client -c yellow,cyan \"npm run server\" \"npm run client\"",
+        "server": "node server/server.js",
+        "client": "npm --prefix client run dev",
+        "build": "npm --prefix client run build",
+        "start": "node server/server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.0"
+    }
+}

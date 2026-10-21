@@ -1,0 +1,624 @@
+[
+    {
+        "id": "sapphire-halo-ring",
+        "name": "Sapphire Halo Ring",
+        "category": "rings",
+        "image": "/images/ring.jpg",
+        "objectPosition": "center",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 4.2,
+        "stone": {
+            "type": "sapphire",
+            "carat": 2
+        },
+        "tagline": "A deep blue sapphire wrapped in a halo of light.",
+        "description": "A 2 carat blue sapphire framed by a sparkling halo, set in 18K white gold. Made to be noticed.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous",
+                "classic"
+            ],
+            "occasion": [
+                "anniversary",
+                "wedding"
+            ],
+            "recipient": [
+                "partner",
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "aurelia-twist-ring",
+        "name": "Aurelia Twist Ring",
+        "category": "rings",
+        "image": "/images/ring2.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 6,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Sculpted gold with a soft, rolling twist.",
+        "description": "A chunky twisted band in polished 22K yellow gold. Bold enough for a statement, simple enough for every day.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold",
+                "classic"
+            ],
+            "occasion": [
+                "everyday",
+                "eid",
+                "birthday"
+            ],
+            "recipient": [
+                "self",
+                "sister",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "blossom-cluster-ring",
+        "name": "Blossom Cluster Diamond Ring",
+        "category": "rings",
+        "image": "/images/ring3.jpg",
+        "objectPosition": "center 55%",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 5,
+        "stone": {
+            "type": "diamond",
+            "carat": 1.5
+        },
+        "tagline": "Diamonds arranged like petals in full bloom.",
+        "description": "A cluster of brilliant diamonds, 1.5 carat in total, set in 18K white gold to catch light from every angle.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary"
+            ],
+            "recipient": [
+                "partner"
+            ]
+        }
+    },
+    {
+        "id": "marquise-solitaire-ring",
+        "name": "Marquise Solitaire Ring",
+        "category": "rings",
+        "image": "/images/ring4.jpg",
+        "objectPosition": "center 60%",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 3.8,
+        "stone": {
+            "type": "diamond",
+            "carat": 1
+        },
+        "tagline": "One perfect diamond. Nothing else needed.",
+        "description": "A 1 carat marquise-cut diamond on a slim 18K white gold band. Timeless, elegant and quietly dramatic.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "classic",
+                "glamorous"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary"
+            ],
+            "recipient": [
+                "partner"
+            ]
+        }
+    },
+    {
+        "id": "noor-gold-band",
+        "name": "Noor Gold Band",
+        "category": "rings",
+        "image": "/images/ring5.jpg",
+        "objectPosition": "center 70%",
+        "metal": "yellow-gold",
+        "karat": 21,
+        "weight": 3,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Pure, simple, and made to be worn daily.",
+        "description": "A smooth 21K yellow gold band with a soft finish. Stack it or wear it alone.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "minimal",
+                "classic"
+            ],
+            "occasion": [
+                "everyday",
+                "birthday",
+                "eid"
+            ],
+            "recipient": [
+                "self",
+                "sister",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "halo-hoop-studs",
+        "name": "Halo Hoop Studs",
+        "category": "earrings",
+        "image": "/images/earrings.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 21,
+        "weight": 3.5,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "A little hoop that finishes every outfit.",
+        "description": "Polished 21K gold studs with a hoop detail. Light on the ear, rich in shine.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "minimal",
+                "classic"
+            ],
+            "occasion": [
+                "everyday",
+                "birthday"
+            ],
+            "recipient": [
+                "sister",
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "ruby-teardrop-earrings",
+        "name": "Ruby Teardrop Earrings",
+        "category": "earrings",
+        "image": "/images/earrings2.jpg",
+        "objectPosition": "center",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 6,
+        "stone": {
+            "type": "ruby",
+            "carat": 3
+        },
+        "tagline": "Deep red drops that frame the face.",
+        "description": "Pear-shaped rubies, 3 carat in total, hanging from 18K white gold. Made for special evenings.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous",
+                "classic"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary",
+                "eid"
+            ],
+            "recipient": [
+                "partner",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "gilded-leaf-drops",
+        "name": "Gilded Leaf Drops",
+        "category": "earrings",
+        "image": "/images/earrings3.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 7,
+        "stone": {
+            "type": "diamond",
+            "carat": 0.2
+        },
+        "tagline": "Sculpted gold leaves with a diamond spark.",
+        "description": "Twisting 22K gold leaves that move with you, finished with a small diamond at the tip.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold",
+                "glamorous"
+            ],
+            "occasion": [
+                "eid",
+                "birthday",
+                "wedding"
+            ],
+            "recipient": [
+                "sister",
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "luna-statement-earrings",
+        "name": "Luna Statement Earrings",
+        "category": "earrings",
+        "image": "/images/earrings4.jpg",
+        "objectPosition": "center 30%",
+        "metal": "rose-gold",
+        "karat": 18,
+        "weight": 4.5,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Warm rose gold with a modern edge.",
+        "description": "Sculptural 18K rose gold earrings with a soft, warm glow that flatters every skin tone.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold",
+                "minimal"
+            ],
+            "occasion": [
+                "birthday",
+                "everyday"
+            ],
+            "recipient": [
+                "sister",
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "emerald-vine-earrings",
+        "name": "Emerald Vine Earrings",
+        "category": "earrings",
+        "image": "/images/earrings5.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 21,
+        "weight": 6.5,
+        "stone": {
+            "type": "emerald",
+            "carat": 2.5
+        },
+        "tagline": "Green fire set in vines of gold.",
+        "description": "Rich emeralds, 2.5 carat in total, in an intricate 21K gold setting. A true heirloom piece.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous",
+                "bold"
+            ],
+            "occasion": [
+                "wedding",
+                "eid"
+            ],
+            "recipient": [
+                "partner",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "riviera-diamond-bracelet",
+        "name": "Riviera Diamond Bracelet",
+        "category": "bracelets",
+        "image": "/images/bracelet.jpg",
+        "objectPosition": "center",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 11,
+        "stone": {
+            "type": "diamond",
+            "carat": 2.5
+        },
+        "tagline": "A continuous line of diamonds around the wrist.",
+        "description": "A classic tennis bracelet with 2.5 carat of diamonds in 18K white gold. Our most luxurious piece.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous",
+                "classic"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary"
+            ],
+            "recipient": [
+                "partner"
+            ]
+        }
+    },
+    {
+        "id": "imperial-gold-cuff",
+        "name": "Imperial Gold Cuff",
+        "category": "bracelets",
+        "image": "/images/bracelet2.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 18,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Heavy, textured gold with real presence.",
+        "description": "A wide 22K gold cuff with a rich woven texture. One piece, zero effort, full impact.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold"
+            ],
+            "occasion": [
+                "eid",
+                "birthday"
+            ],
+            "recipient": [
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "halo-diamond-bangle",
+        "name": "Halo Diamond Bangle",
+        "category": "bracelets",
+        "image": "/images/bracelet3.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 21,
+        "weight": 10,
+        "stone": {
+            "type": "diamond",
+            "carat": 0.3
+        },
+        "tagline": "A slim gold bangle with a hidden sparkle.",
+        "description": "A smooth 21K gold bangle set with 0.3 carat of fine diamonds. Understated and elegant.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "classic",
+                "minimal"
+            ],
+            "occasion": [
+                "anniversary",
+                "birthday"
+            ],
+            "recipient": [
+                "partner",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "duo-chain-bracelet",
+        "name": "Duo Chain Bracelet",
+        "category": "bracelets",
+        "image": "/images/bracelet4.jpg",
+        "objectPosition": "center 40%",
+        "metal": "rose-gold",
+        "karat": 18,
+        "weight": 8,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Two fine chains, one effortless look.",
+        "description": "A delicate double chain bracelet in 18K rose gold. Perfect for layering with your own pieces.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "minimal"
+            ],
+            "occasion": [
+                "everyday",
+                "birthday"
+            ],
+            "recipient": [
+                "sister",
+                "self"
+            ]
+        }
+    },
+    {
+        "id": "stackable-bangle-trio",
+        "name": "Stackable Bangle Trio",
+        "category": "bracelets",
+        "image": "/images/bracelet5.jpg",
+        "objectPosition": "center 45%",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 14,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Three bangles that sound as good as they look.",
+        "description": "A set of three polished 22K gold bangles, made to be worn together.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "classic",
+                "bold"
+            ],
+            "occasion": [
+                "eid",
+                "wedding"
+            ],
+            "recipient": [
+                "mother",
+                "sister"
+            ]
+        }
+    },
+    {
+        "id": "midnight-sapphire-pendant",
+        "name": "Midnight Sapphire Pendant",
+        "category": "necklaces",
+        "image": "/images/necklace.jpg",
+        "objectPosition": "center",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 9,
+        "stone": {
+            "type": "sapphire",
+            "carat": 4
+        },
+        "tagline": "A royal blue sapphire on a river of diamonds.",
+        "description": "A 4 carat sapphire pendant on an 18K white gold chain. Made for black-tie evenings.",
+        "featured": true,
+        "tags": {
+            "style": [
+                "glamorous"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary"
+            ],
+            "recipient": [
+                "partner"
+            ]
+        }
+    },
+    {
+        "id": "crimson-ruby-necklace",
+        "name": "Crimson Ruby Necklace",
+        "category": "necklaces",
+        "image": "/images/necklace2.jpg",
+        "objectPosition": "center",
+        "metal": "white-gold",
+        "karat": 18,
+        "weight": 10,
+        "stone": {
+            "type": "ruby",
+            "carat": 3.5
+        },
+        "tagline": "A heart of red fire at the collarbone.",
+        "description": "A 3.5 carat ruby centre stone on an 18K white gold necklace. Deep, rich and unforgettable.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "glamorous",
+                "classic"
+            ],
+            "occasion": [
+                "wedding",
+                "anniversary"
+            ],
+            "recipient": [
+                "partner",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "soleil-gold-pendant",
+        "name": "Soleil Gold Pendant",
+        "category": "necklaces",
+        "image": "/images/necklace3.jpg",
+        "objectPosition": "center",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 5,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "A small sun to wear close to your heart.",
+        "description": "A softly curved 22K gold pendant on a fine chain. Simple, warm and made for every day.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "minimal",
+                "classic"
+            ],
+            "occasion": [
+                "everyday",
+                "birthday",
+                "eid"
+            ],
+            "recipient": [
+                "sister",
+                "self",
+                "mother"
+            ]
+        }
+    },
+    {
+        "id": "regal-gold-choker",
+        "name": "Regal Gold Choker",
+        "category": "necklaces",
+        "image": "/images/necklace4.jpg",
+        "objectPosition": "center 35%",
+        "metal": "yellow-gold",
+        "karat": 22,
+        "weight": 24,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Solid gold, worn close and worn proud.",
+        "description": "A thick 22K gold choker with a polished finish. Pair it with anything and it becomes the outfit.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold",
+                "glamorous"
+            ],
+            "occasion": [
+                "wedding",
+                "eid"
+            ],
+            "recipient": [
+                "self",
+                "sister",
+                "partner"
+            ]
+        }
+    },
+    {
+        "id": "layered-chain-set",
+        "name": "Layered Chain Set",
+        "category": "necklaces",
+        "image": "/images/necklace5.jpg",
+        "objectPosition": "center 40%",
+        "metal": "yellow-gold",
+        "karat": 21,
+        "weight": 16,
+        "stone": {
+            "type": "none",
+            "carat": 0
+        },
+        "tagline": "Three lengths, one layered look.",
+        "description": "A set of 21K gold chains in different lengths, designed to be layered together.",
+        "featured": false,
+        "tags": {
+            "style": [
+                "bold",
+                "classic"
+            ],
+            "occasion": [
+                "wedding",
+                "eid",
+                "birthday"
+            ],
+            "recipient": [
+                "mother",
+                "sister",
+                "partner"
+            ]
+        }
+    }
+]

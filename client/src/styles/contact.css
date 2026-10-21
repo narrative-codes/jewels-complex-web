@@ -1,0 +1,275 @@
+/* =====================  CONTACT PAGE  ===================== */
+.contact {
+    padding: clamp(70px, 9vw, 120px) 0 80px;
+    background: radial-gradient(circle at 90% 4%, rgba(74, 24, 36, 0.55), transparent 50%);
+}
+
+.contact__head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    margin-bottom: clamp(40px, 6vw, 72px);
+}
+
+.contact__head h1 {
+    font-size: clamp(3rem, 8vw, 6.4rem);
+    font-weight: 700;
+}
+
+.contact__lead {
+    max-width: 560px;
+    font-size: 1.05rem;
+    color: var(--muted);
+}
+
+.contact__grid {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: clamp(28px, 5vw, 72px);
+    align-items: start;
+}
+
+@media (max-width: 900px) {
+    .contact__grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* the message form sits on a cream card, so it stands out from the black page */
+.contact__form {
+    padding: clamp(26px, 4vw, 52px);
+    border-radius: 36px;
+    background: var(--cream);
+    color: var(--ink);
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5);
+}
+
+.contact__form .mform {
+    padding: 0;
+    border: 0;
+    background: none;
+}
+
+.contact__form .mform__title {
+    font-size: clamp(1.8rem, 3vw, 2.4rem);
+    font-weight: 700;
+    color: var(--ink);
+}
+
+.contact__form .mfield label {
+    color: #7a5818;
+}
+
+.contact__form .mfield input,
+.contact__form .mfield textarea {
+    border-color: rgba(26, 20, 16, 0.2);
+    background: #ffffff;
+    color: var(--ink);
+}
+
+.contact__form .mfield input:focus,
+.contact__form .mfield textarea:focus {
+    border-color: #a97f2e;
+    box-shadow: 0 0 0 4px rgba(169, 127, 46, 0.18);
+}
+
+.contact__form .btn:disabled {
+    opacity: 0.55;
+    cursor: wait;
+    transform: none;
+}
+
+.contact__form .modal__success {
+    border-color: rgba(46, 125, 70, 0.5);
+    background: rgba(46, 125, 70, 0.08);
+    color: #3d3429;
+}
+
+.contact__form .modal__success-title {
+    color: var(--ink);
+}
+
+.contact__form .modal__success strong {
+    color: #7a5818;
+}
+
+.contact__form .modal__error {
+    background: rgba(180, 70, 50, 0.1);
+    color: #a63d2a;
+}
+
+.contact__form .btn-ghost {
+    border-color: rgba(26, 20, 16, 0.55);
+    color: var(--ink);
+}
+
+.contact__form .btn-ghost:hover {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--cream);
+}
+
+.contact__again {
+    margin-top: 18px;
+}
+
+.contact__side {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.cinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 30px;
+    border: 1px solid var(--line);
+    border-radius: 28px;
+    background: linear-gradient(165deg, rgba(74, 24, 36, 0.45), rgba(21, 21, 21, 0.95));
+    transition: border-color 0.6s var(--ease), transform 0.6s var(--ease);
+}
+
+.cinfo:hover {
+    border-color: rgba(201, 169, 97, 0.7);
+    transform: translateY(-4px);
+}
+
+.cinfo__label {
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--gold);
+}
+
+.cinfo__big {
+    font-family: var(--font-display);
+    font-size: clamp(1.9rem, 3.2vw, 2.6rem);
+    font-weight: 700;
+    line-height: 1.1;
+    color: #ffffff;
+    transition: color 0.4s var(--ease);
+}
+
+.cinfo__big:hover {
+    color: var(--gold-light);
+}
+
+.cinfo__link {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1.5px solid rgba(201, 169, 97, 0.55);
+    border-radius: 999px;
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: var(--gold-light);
+    word-break: break-all;
+    transition: background 0.4s var(--ease), color 0.4s var(--ease), border-color 0.4s var(--ease);
+}
+
+.cinfo__link:hover {
+    background: var(--gold-gradient);
+    border-color: transparent;
+    color: #0a0a0a;
+}
+
+.cinfo__address {
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+    font-size: 1.02rem;
+    color: rgba(255, 251, 242, 0.9);
+}
+
+.cinfo__hours {
+    width: 100%;
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: var(--r-md);
+}
+
+.cinfo__hours li {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 13px 18px;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.9rem;
+    color: var(--muted);
+}
+
+.cinfo__hours li:last-child {
+    border-bottom: 0;
+}
+
+.cinfo__hours li span:last-child {
+    font-weight: 500;
+    color: #ffffff;
+    text-align: right;
+}
+
+.cmap {
+    position: relative;
+    display: grid;
+    place-items: center;
+    height: 200px;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: 28px;
+    background: var(--bg-2);
+}
+
+.cmap svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cmap__pin {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    margin-bottom: 26px;
+    border-radius: 50%;
+    background: var(--gold-gradient);
+    box-shadow: 0 0 0 6px rgba(201, 169, 97, 0.2);
+    animation: pinPulse 2.4s ease-in-out infinite;
+}
+
+@keyframes pinPulse {
+
+    0%,
+    100% {
+        box-shadow: 0 0 0 4px rgba(201, 169, 97, 0.2);
+    }
+
+    50% {
+        box-shadow: 0 0 0 14px rgba(201, 169, 97, 0);
+    }
+}
+
+.cmap__text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 14px;
+    text-align: center;
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .cmap__pin {
+        animation: none;
+    }
+}

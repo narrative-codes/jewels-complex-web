@@ -1,0 +1,98 @@
+[
+  {
+    "id": "KSo-wrNq",
+    "name": "Affrina",
+    "config": {
+      "pieceType": "bracelet",
+      "size": "19",
+      "metal": "silver",
+      "karat": null,
+      "stone": {
+        "type": "sapphire",
+        "carat": 0.95
+      },
+      "engraving": "Affrina choice"
+    },
+    "createdAt": "2026-10-18T13:04:37.200Z"
+  },
+  {
+    "id": "6vcAHc5M",
+    "name": "Atkantic",
+    "config": {
+      "pieceType": "bracelet",
+      "size": "17",
+      "metal": "silver",
+      "karat": null,
+      "stone": {
+        "type": "ruby",
+        "carat": 0.85
+      },
+      "engraving": "A gift for you loren"
+    },
+    "createdAt": "2026-10-19T13:21:42.701Z"
+  },
+  {
+    "id": "DWYWi8ro",
+    "name": "Atlantic blue",
+    "config": {
+      "pieceType": "ring",
+      "size": "6",
+      "metal": "white-gold",
+      "karat": 18,
+      "stone": {
+        "type": "sapphire",
+        "carat": 4.15
+      },
+      "engraving": "For Maha"
+    },
+    "createdAt": "2026-10-20T10:39:25.312Z"
+  },
+  {
+    "id": "reeRRx6H",
+    "name": "My Design",
+    "config": {
+      "pieceType": "ring",
+      "size": "6",
+      "metal": "white-gold",
+      "karat": 18,
+      "stone": {
+        "type": "ruby",
+        "carat": 3.25
+      },
+      "engraving": "For my friend"
+    },
+    "createdAt": "2026-10-20T11:05:51.440Z"
+  },
+  {
+    "id": "omRt5Xd4",
+    "name": "My Design",
+    "config": {
+      "pieceType": "ring",
+      "size": "7",
+      "metal": "white-gold",
+      "karat": 18,
+      "stone": {
+        "type": "sapphire",
+        "carat": 2.8
+      },
+      "engraving": "this is for Zunaira"
+    },
+    "createdAt": "2026-10-20T16:46:10.483Z"
+  },
+  {
+    "id": "f6m3bW66",
+    "name": "My Design",
+    "config": {
+      "pieceType": "necklace",
+      "size": "45",
+      "metal": "white-gold",
+      "karat": 18,
+      "stone": {
+        "type": "ruby",
+        "carat": 1
+      },
+      "engraving": ""
+    },
+    "createdAt": "2026-10-21T08:59:26.484Z"
+  }
+]
