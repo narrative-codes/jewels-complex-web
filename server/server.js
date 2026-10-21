@@ -73,6 +73,10 @@ app.use((err, req, res, next) => {
     });
 });
 
-app.listen(PORT, () => {
-    console.log(`\n  Evelyn Jewels API running on http://localhost:${PORT}\n`);
-});
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`\n  Evelyn Jewels API running on http://localhost:${PORT}\n`);
+    });
+}
+
+module.exports = app;
